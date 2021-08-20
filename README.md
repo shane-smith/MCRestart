@@ -1,5 +1,4 @@
-MCRestart
-=========
+# MCRestart
 
 Automatically restarts a Minecraft server after /stop has been executed.
 
